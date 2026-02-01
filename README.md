@@ -16,7 +16,7 @@ A simple yet complete employee management system implemented in pure C language.
 - **Sorting Algorithm**: Implements bubble sort to arrange employees by ID
 - **Search Functionality**: Uses binary search for efficient employee lookup
 - **Interactive Interface**: User-friendly console interface (Chinese/English ready)
-
+(You will understand more about Function, Array, and some technique like 线性查找)
 ### 🛠️ Technical Implementation
 - **Language**: Pure C (C99 standard)
 - **Data Structures**: Arrays, strings
